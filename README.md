@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ronny Acevedo, a Full Stack Software Engineer. 😄
+- 👋 Hi, I’m Ronny Acevedo. I am a Full Stack Software Engineer. 😄
 - 👨🏽‍💻 I’m interested in all different types of technologies/stacks. 🧠
-- 🏫 I’m currently diving into AI and Machine learning, as well as some backend. ⚙👨🏽‍💻
+- 🏫 I’m currently mastering the backend with Python/Django. ⚙👨🏽‍💻🐍
 - 📨 You can reach me on LinkedIn: https://www.linkedin.com/in/ronnyacevedo/
 
 <!---
