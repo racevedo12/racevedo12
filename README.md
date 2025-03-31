@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ronny Acevedo. I am a Full Stack Software Engineer. 😄
 - 👨🏽‍💻 I’m interested in all different types of technologies/stacks. 🧠
-- 🏫 I’m currently in an adventure of learning game development. ⚙👨🏽‍💻
+- 🏫 I’m currently on an adventure of learning backend development. ⚙👨🏽‍💻
 - 📨 You can reach me on LinkedIn: https://www.linkedin.com/in/ronnyacevedo/
 
 <!---
